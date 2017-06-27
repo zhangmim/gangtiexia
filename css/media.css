@@ -1,0 +1,33 @@
+.left{
+    float: none !important;
+    width: 100% !important
+}
+.right{
+    float: none !important;
+    width: 100% !important;
+}
+ul{
+    display: none;
+    position: absolute;
+    left: 0;
+    top: 50px;
+}
+ul li{
+    float: none !important;
+    width:100%!important;
+    margin: 0 auto;
+    padding-left: 60px;
+    line-height: 38px !important;
+}
+.first{
+    display: block!important;
+}
+.put{
+    display: none;
+    position: absolute;
+    left: 50px;
+    top: 200px;
+}
+.menu{
+    display: block !important;
+}

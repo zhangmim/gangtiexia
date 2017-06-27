@@ -1,0 +1,57 @@
+body,div,p,ul,h1,h2{
+    padding: 0;
+    margin: 0;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+
+html,body{
+    width: 100%;
+}
+.hide{
+    display: block!important;
+}
+nav{
+    width: 85%;
+    margin: 0 auto;
+    height: 50px;
+    line-height: 50px;
+    overflow: hidden;
+}
+nav li{
+    float: left;
+    padding: 0 2%;
+}
+nav .first{
+    float: left;
+    font-size: 17px;
+    padding:0 2%;
+}
+nav li a{
+    color: #777576;
+    font-size: 14px;
+}
+nav input{
+    float: right;
+    background: white;
+    border-radius: 3px;
+    border: 1px solid #cdcdcd;
+    margin-top: 8px;
+}
+nav .txt{
+    width: 168px;
+    height: 32px;
+}
+nav .sousuo{
+    margin-left: 4px;
+    padding: 10px;
+
+}
+nav span{
+    display: none;
+float: right;
+}
